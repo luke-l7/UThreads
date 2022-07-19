@@ -5,7 +5,7 @@ A user-level thread liberary</br></br>
 
 ## About The Project
 
-This project is a User-level thread library - meaning it's scheduling is done by the User, not the OS (Kernel) it was developed in an academic environment.
+This project is a User-level thread library - meaning it's scheduling is done by the User, not the OS (Kernel), it was developed in an academic environment.
 
 ### Built With
 * [CPP](https://www.cplusplus.com/)
